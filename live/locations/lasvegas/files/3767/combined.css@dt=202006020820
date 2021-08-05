@@ -1,0 +1,393 @@
+﻿.flex-container a:active,.flexslider a:active,.flex-container a:focus,.flexslider a:focus{outline:0}
+.slides,.flex-control-nav,.flex-direction-nav{margin:0;padding:0;list-style:none}
+.flexslider{margin:0;padding:0}
+.flexslider .slides>li{display:none;position:relative;-webkit-backface-visibility:hidden}
+.flexslider .slides img{width:100%;display:block}
+.flex-pauseplay span{text-transform:capitalize}
+.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+html[xmlns] .slides{display:block}
+* html .slides{height:1%}
+.no-js .slides>li:first-child{display:block}
+.flexslider{margin:0 0 60px;position:relative;zoom:1;color:#FFF}
+.flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;transition:all 1s ease}
+.loading .flex-viewport{max-height:300px}
+.flexslider .slides{zoom:1}
+.carousel li{margin-right:5px}
+.flex-direction-nav{*height:0}
+.flex-direction-nav a{width:30px;height:30px;margin:-20px 0 0;display:block;background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2568/bg_direction_nav.png) no-repeat 0 0;position:absolute;top:50%;z-index:10;cursor:pointer;text-indent:-9999px;opacity:0;-webkit-transition:all .3s ease}
+.flex-direction-nav a:active{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2568/bg_direction_nav.png) no-repeat}
+.flex-direction-nav .flex-next{background-position:100% 0;right:-36px}
+.flex-direction-nav .flex-prev{left:-36px}
+.flexslider:hover .flex-next{opacity:.7;right:5px}
+.flexslider:hover .flex-prev{opacity:.7;left:5px}
+.flexslider:active .flex-next{background-position:100% 0}
+.flexslider:hover .flex-next:hover,.flexslider:hover .flex-prev:hover{opacity:1}
+.flex-direction-nav .flex-disabled{opacity:.3!important;filter:alpha(opacity=30);cursor:default}
+.flex-control-nav{width:100%;position:absolute;bottom:-40px;text-align:center}
+.flex-control-nav li{margin:0 5px;display:inline-block;zoom:1;*display:inline}
+.flex-control-paging li a{width:11px;height:11px;display:block;background:#666;background:rgba(0,0,0,0.15);cursor:pointer;text-indent:-9999px;-webkit-border-radius:20px;-moz-border-radius:20px;-o-border-radius:20px;border-radius:20px;box-shadow:inset 0 0 3px rgba(0,0,0,0.3)}
+.flex-control-paging li a:hover{background:#333;background:rgba(0,0,0,0.7)}
+.flex-control-paging li a.flex-active{background:#000;background:rgba(0,0,0,0.9);cursor:default}
+.flex-control-thumbs{margin:5px 0 0;position:static;overflow:hidden}
+.flex-control-thumbs li{width:25%;float:left;margin:0}
+.flex-control-thumbs img{width:100%;display:block;opacity:.7;cursor:pointer}
+.flex-control-thumbs img:hover{opacity:1}
+.flex-control-thumbs .flex-active{opacity:1;cursor:default}
+.flex-caption{background:rgba(0,0,0,0.85);bottom:30px;left:30px;padding:10px 20px;position:absolute;z-index:1}
+.flex-heading,.flex-subheading{font-size:25px}
+@media screen and (max-width:860px){.flex-direction-nav .flex-prev{opacity:1;left:0}
+.flex-direction-nav .flex-next{opacity:1;right:0}
+}
+.flex-direction-nav a{background:none repeat scroll 0 0 rgba(0,0,0,0);color:#FFF;cursor:pointer;display:block;font-size:60px;height:100%;margin:0;opacity:.75;position:absolute;text-align:center;text-indent:0;top:0;width:50px;z-index:10}
+.flex-direction-nav a:hover,.flex-direction-nav a:focus{color:#FFF;text-decoration:none}
+.flex-direction-nav .flex-next{background-position:100% 0;right:0}
+.flex-direction-nav .flex-prev{left:0}
+.flexslider:hover .flex-next{right:0}
+.flexslider:hover .flex-prev{left:0}
+.flex-direction-nav i{display:block}
+/*! Swipebox v1.3.0 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */html.swipebox-html.swipebox-touch{overflow:hidden!important}
+#swipebox-overlay img{border:none!important}
+#swipebox-overlay{width:100%;height:100%;position:fixed;top:0;left:0;z-index:99999!important;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+#swipebox-container{position:relative;width:100%;height:100%}
+#swipebox-slider{-webkit-transition:-webkit-transform .4s ease;transition:transform .4s ease;height:100%;left:0;top:0;width:100%;white-space:nowrap;position:absolute;display:none;cursor:pointer}
+#swipebox-slider .slide{height:100%;width:100%;line-height:1px;text-align:center;display:inline-block}
+#swipebox-slider .slide:before{content:"";display:inline-block;height:50%;width:1px;margin-right:-1px}
+#swipebox-slider .slide img,#swipebox-slider .slide .swipebox-video-container{display:inline-block;max-height:100%;max-width:100%;margin:0;padding:0;width:auto;height:auto;vertical-align:middle}
+#swipebox-slider .slide .swipebox-video-container{background:0;max-width:1140px;max-height:100%;width:100%;padding:5%;-webkit-box-sizing:border-box;box-sizing:border-box}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video{width:100%;height:0;padding-bottom:56.25%;overflow:hidden;position:relative}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video iframe{width:100%!important;height:100%!important;position:absolute;top:0;left:0}
+#swipebox-slider .slide-loading{background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2568/loader.gif) no-repeat center center}
+#swipebox-bottom-bar,#swipebox-top-bar{-webkit-transition:.5s;transition:.5s;position:absolute;left:0;z-index:999;height:50px;width:100%}
+#swipebox-bottom-bar{bottom:-50px}
+#swipebox-bottom-bar.visible-bars{-webkit-transform:translate3d(0,-50px,0);transform:translate3d(0,-50px,0)}
+#swipebox-top-bar{top:-50px}
+#swipebox-top-bar.visible-bars{-webkit-transform:translate3d(0,50px,0);transform:translate3d(0,50px,0)}
+#swipebox-title{display:block;width:100%;text-align:center}
+#swipebox-prev,#swipebox-next,#swipebox-close{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2568/icons.png);background-repeat:no-repeat;border:none!important;text-decoration:none!important;cursor:pointer;width:50px;height:50px;top:0}
+#swipebox-arrows{display:block;margin:0 auto;width:100%;height:50px}
+#swipebox-prev{background-position:-32px 13px;float:left}
+#swipebox-next{background-position:-78px 13px;float:right}
+#swipebox-close{top:0;right:0;position:absolute;z-index:9999;background-position:15px 12px}
+.swipebox-no-close-button #swipebox-close{display:none}
+#swipebox-prev.disabled,#swipebox-next.disabled{opacity:.3}
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider{-webkit-animation:rightSpring .3s;animation:rightSpring .3s}
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider{-webkit-animation:leftSpring .3s;animation:leftSpring .3s}
+.swipebox-touch #swipebox-container:before,.swipebox-touch #swipebox-container:after{-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:all .3s ease;transition:all .3s ease;content:' ';position:absolute;z-index:999;top:0;height:100%;width:20px;opacity:0}
+.swipebox-touch #swipebox-container:before{left:0;-webkit-box-shadow:inset 10px 0 10px -8px #656565;box-shadow:inset 10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-container:after{right:0;-webkit-box-shadow:inset -10px 0 10px -8px #656565;box-shadow:inset -10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before{opacity:1}
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after{opacity:1}
+@-webkit-keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@-webkit-keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@media screen and (min-width:800px){#swipebox-close{right:10px}
+#swipebox-arrows{width:92%;max-width:800px}
+}
+#swipebox-overlay{background:#0d0d0d}
+#swipebox-bottom-bar,#swipebox-top-bar{text-shadow:1px 1px 1px black;background:#000;opacity:.95}
+#swipebox-top-bar{color:white!important;font-size:15px;line-height:43px;font-family:Helvetica,Arial,sans-serif}
+.owl-carousel .owl-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+.owl-carousel{display:none;position:relative;width:100%;-ms-touch-action:pan-y}
+.owl-carousel .owl-wrapper{display:none;position:relative;-webkit-transform:translate3d(0px,0px,0px)}
+.owl-carousel .owl-wrapper-outer{overflow:hidden;position:relative;width:100%}
+.owl-carousel .owl-wrapper-outer.autoHeight{-webkit-transition:height 500ms ease-in-out;-moz-transition:height 500ms ease-in-out;-ms-transition:height 500ms ease-in-out;-o-transition:height 500ms ease-in-out;transition:height 500ms ease-in-out}
+.owl-carousel .owl-item{float:left}
+.owl-controls .owl-page,.owl-controls .owl-buttons div{cursor:pointer}
+.owl-controls{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+.grabbing{cursor:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1285/grabbing.png) 8 8,move}
+.owl-carousel .owl-wrapper,.owl-carousel .owl-item{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}
+.owl-theme .owl-controls{margin-top:10px;text-align:center}
+.owl-theme .owl-controls .owl-buttons div{color:#FFF;display:inline-block;zoom:1;*display:inline;margin:5px;padding:3px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;background:#869791;filter:Alpha(Opacity=50);opacity:.5}
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{filter:Alpha(Opacity=100);opacity:1;text-decoration:none}
+.owl-theme .owl-controls .owl-page{display:inline-block;zoom:1;*display:inline}
+.owl-theme .owl-controls .owl-page span{display:block;width:12px;height:12px;margin:5px 7px;filter:Alpha(Opacity=50);opacity:.5;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;background:#869791}
+.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{filter:Alpha(Opacity=100);opacity:1}
+.owl-theme .owl-controls .owl-page span.owl-numbers{height:auto;width:auto;color:#FFF;padding:2px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px}
+.owl-item.loading{min-height:150px;background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1285/AjaxLoader.gif) no-repeat center center}
+.flex-container a:active,.flexslider a:active,.flex-container a:focus,.flexslider a:focus{outline:0}
+.slides,.flex-control-nav,.flex-direction-nav{margin:0;padding:0;list-style:none}
+.flexslider{margin:0;padding:0}
+.flexslider .slides>li{display:none;position:relative;-webkit-backface-visibility:hidden}
+.flexslider .slides img{width:100%;display:block}
+.flex-pauseplay span{text-transform:capitalize}
+.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+html[xmlns] .slides{display:block}
+* html .slides{height:1%}
+.no-js .slides>li:first-child{display:block}
+.flexslider{margin:0 0 60px;position:relative;zoom:1;color:#FFF}
+.flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;transition:all 1s ease}
+.loading .flex-viewport{max-height:300px}
+.flexslider .slides{zoom:1}
+.carousel li{margin-right:5px}
+.flex-direction-nav{*height:0}
+.flex-direction-nav a{width:30px;height:30px;margin:-20px 0 0;display:block;background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1279/bg_direction_nav.png) no-repeat 0 0;position:absolute;top:50%;z-index:10;cursor:pointer;text-indent:-9999px;opacity:0;-webkit-transition:all .3s ease}
+.flex-direction-nav a:active{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1279/bg_direction_nav.png) no-repeat}
+.flex-direction-nav .flex-next{background-position:100% 0;right:-36px}
+.flex-direction-nav .flex-prev{left:-36px}
+.flexslider:hover .flex-next{opacity:.7;right:5px}
+.flexslider:hover .flex-prev{opacity:.7;left:5px}
+.flexslider:active .flex-next{background-position:100% 0}
+.flexslider:hover .flex-next:hover,.flexslider:hover .flex-prev:hover{opacity:1}
+.flex-direction-nav .flex-disabled{opacity:.3!important;filter:alpha(opacity=30);cursor:default}
+.flex-control-nav{width:100%;position:absolute;bottom:-40px;text-align:center}
+.flex-control-nav li{margin:0 5px;display:inline-block;zoom:1;*display:inline}
+.flex-control-paging li a{width:11px;height:11px;display:block;background:#666;background:rgba(0,0,0,0.15);cursor:pointer;text-indent:-9999px;-webkit-border-radius:20px;-moz-border-radius:20px;-o-border-radius:20px;border-radius:20px;box-shadow:inset 0 0 3px rgba(0,0,0,0.3)}
+.flex-control-paging li a:hover{background:#333;background:rgba(0,0,0,0.7)}
+.flex-control-paging li a.flex-active{background:#000;background:rgba(0,0,0,0.9);cursor:default}
+.flex-control-thumbs{margin:5px 0 0;position:static;overflow:hidden}
+.flex-control-thumbs li{width:25%;float:left;margin:0}
+.flex-control-thumbs img{width:100%;display:block;opacity:.7;cursor:pointer}
+.flex-control-thumbs img:hover{opacity:1}
+.flex-control-thumbs .flex-active{opacity:1;cursor:default}
+.flex-caption{background:rgba(0,0,0,0.85);bottom:30px;left:30px;padding:10px 20px;position:absolute;z-index:1}
+.flex-heading,.flex-subheading{font-size:25px}
+@media screen and (max-width:860px){.flex-direction-nav .flex-prev{opacity:1;left:0}
+.flex-direction-nav .flex-next{opacity:1;right:0}
+}
+.flex-direction-nav a{background:none repeat scroll 0 0 rgba(0,0,0,0);color:#FFF;cursor:pointer;display:block;font-size:60px;height:100%;margin:0;opacity:.75;position:absolute;text-align:center;text-indent:0;top:0;width:50px;z-index:10}
+.flex-direction-nav a:hover,.flex-direction-nav a:focus{color:#FFF;text-decoration:none}
+.flex-direction-nav .flex-next{background-position:100% 0;right:0}
+.flex-direction-nav .flex-prev{left:0}
+.flexslider:hover .flex-next{right:0}
+.flexslider:hover .flex-prev{left:0}
+.flex-direction-nav i{display:block}
+/*! Swipebox v1.3.0 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */html.swipebox-html.swipebox-touch{overflow:hidden!important}
+#swipebox-overlay img{border:none!important}
+#swipebox-overlay{width:100%;height:100%;position:fixed;top:0;left:0;z-index:99999!important;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+#swipebox-container{position:relative;width:100%;height:100%}
+#swipebox-slider{-webkit-transition:-webkit-transform .4s ease;transition:transform .4s ease;height:100%;left:0;top:0;width:100%;white-space:nowrap;position:absolute;display:none;cursor:pointer}
+#swipebox-slider .slide{height:100%;width:100%;line-height:1px;text-align:center;display:inline-block}
+#swipebox-slider .slide:before{content:"";display:inline-block;height:50%;width:1px;margin-right:-1px}
+#swipebox-slider .slide img,#swipebox-slider .slide .swipebox-video-container{display:inline-block;max-height:100%;max-width:100%;margin:0;padding:0;width:auto;height:auto;vertical-align:middle}
+#swipebox-slider .slide .swipebox-video-container{background:0;max-width:1140px;max-height:100%;width:100%;padding:5%;-webkit-box-sizing:border-box;box-sizing:border-box}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video{width:100%;height:0;padding-bottom:56.25%;overflow:hidden;position:relative}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video iframe{width:100%!important;height:100%!important;position:absolute;top:0;left:0}
+#swipebox-slider .slide-loading{background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1279/loader.gif) no-repeat center center}
+#swipebox-bottom-bar,#swipebox-top-bar{-webkit-transition:.5s;transition:.5s;position:absolute;left:0;z-index:999;height:50px;width:100%}
+#swipebox-bottom-bar{bottom:-50px}
+#swipebox-bottom-bar.visible-bars{-webkit-transform:translate3d(0,-50px,0);transform:translate3d(0,-50px,0)}
+#swipebox-top-bar{top:-50px}
+#swipebox-top-bar.visible-bars{-webkit-transform:translate3d(0,50px,0);transform:translate3d(0,50px,0)}
+#swipebox-title{display:block;width:100%;text-align:center}
+#swipebox-prev,#swipebox-next,#swipebox-close{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/1279/icons.png);background-repeat:no-repeat;border:none!important;text-decoration:none!important;cursor:pointer;width:50px;height:50px;top:0}
+#swipebox-arrows{display:block;margin:0 auto;width:100%;height:50px}
+#swipebox-prev{background-position:-32px 13px;float:left}
+#swipebox-next{background-position:-78px 13px;float:right}
+#swipebox-close{top:0;right:0;position:absolute;z-index:9999;background-position:15px 12px}
+.swipebox-no-close-button #swipebox-close{display:none}
+#swipebox-prev.disabled,#swipebox-next.disabled{opacity:.3}
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider{-webkit-animation:rightSpring .3s;animation:rightSpring .3s}
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider{-webkit-animation:leftSpring .3s;animation:leftSpring .3s}
+.swipebox-touch #swipebox-container:before,.swipebox-touch #swipebox-container:after{-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:all .3s ease;transition:all .3s ease;content:' ';position:absolute;z-index:999;top:0;height:100%;width:20px;opacity:0}
+.swipebox-touch #swipebox-container:before{left:0;-webkit-box-shadow:inset 10px 0 10px -8px #656565;box-shadow:inset 10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-container:after{right:0;-webkit-box-shadow:inset -10px 0 10px -8px #656565;box-shadow:inset -10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before{opacity:1}
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after{opacity:1}
+@-webkit-keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@-webkit-keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@media screen and (min-width:800px){#swipebox-close{right:10px}
+#swipebox-arrows{width:92%;max-width:800px}
+}
+#swipebox-overlay{background:#0d0d0d}
+#swipebox-bottom-bar,#swipebox-top-bar{text-shadow:1px 1px 1px black;background:#000;opacity:.95}
+#swipebox-top-bar{color:white!important;font-size:15px;line-height:43px;font-family:Helvetica,Arial,sans-serif}
+.owl-carousel .owl-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+.owl-carousel{display:none;position:relative;width:100%;-ms-touch-action:pan-y}
+.owl-carousel .owl-wrapper{display:none;position:relative;-webkit-transform:translate3d(0px,0px,0px)}
+.owl-carousel .owl-wrapper-outer{overflow:hidden;position:relative;width:100%}
+.owl-carousel .owl-wrapper-outer.autoHeight{-webkit-transition:height 500ms ease-in-out;-moz-transition:height 500ms ease-in-out;-ms-transition:height 500ms ease-in-out;-o-transition:height 500ms ease-in-out;transition:height 500ms ease-in-out}
+.owl-carousel .owl-item{float:left}
+.owl-controls .owl-page,.owl-controls .owl-buttons div{cursor:pointer}
+.owl-controls{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+.grabbing{cursor:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2002/grabbing.png) 8 8,move}
+.owl-carousel .owl-wrapper,.owl-carousel .owl-item{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}
+.owl-theme .owl-controls{margin-top:10px;text-align:center}
+.owl-theme .owl-controls .owl-buttons div{color:#FFF;display:inline-block;zoom:1;*display:inline;margin:5px;padding:3px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;background:#869791;filter:Alpha(Opacity=50);opacity:.5}
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{filter:Alpha(Opacity=100);opacity:1;text-decoration:none}
+.owl-theme .owl-controls .owl-page{display:inline-block;zoom:1;*display:inline}
+.owl-theme .owl-controls .owl-page span{display:block;width:12px;height:12px;margin:5px 7px;filter:Alpha(Opacity=50);opacity:.5;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;background:#869791}
+.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{filter:Alpha(Opacity=100);opacity:1}
+.owl-theme .owl-controls .owl-page span.owl-numbers{height:auto;width:auto;color:#FFF;padding:2px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px}
+.owl-item.loading{min-height:150px;background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2002/AjaxLoader.gif) no-repeat center center}
+/*! Swipebox v1.3.0 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */html.swipebox-html.swipebox-touch{overflow:hidden!important}
+#swipebox-overlay img{border:none!important}
+#swipebox-overlay{width:100%;height:100%;position:fixed;top:0;left:0;z-index:99999!important;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+#swipebox-container{position:relative;width:100%;height:100%}
+#swipebox-slider{-webkit-transition:-webkit-transform .4s ease;transition:transform .4s ease;height:100%;left:0;top:0;width:100%;white-space:nowrap;position:absolute;display:none;cursor:pointer}
+#swipebox-slider .slide{height:100%;width:100%;line-height:1px;text-align:center;display:inline-block}
+#swipebox-slider .slide:before{content:"";display:inline-block;height:50%;width:1px;margin-right:-1px}
+#swipebox-slider .slide img,#swipebox-slider .slide .swipebox-video-container,#swipebox-slider .slide .swipebox-inline-container{display:inline-block;max-height:100%;max-width:100%;margin:0;padding:0;width:auto;height:auto;vertical-align:middle}
+#swipebox-slider .slide .swipebox-video-container{background:0;max-width:1140px;max-height:100%;width:100%;padding:5%;-webkit-box-sizing:border-box;box-sizing:border-box}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video{width:100%;height:0;padding-bottom:56.25%;overflow:hidden;position:relative}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video iframe{width:100%!important;height:100%!important;position:absolute;top:0;left:0}
+#swipebox-slider .slide-loading{background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2002/loader.gif) no-repeat center center}
+#swipebox-bottom-bar,#swipebox-top-bar{-webkit-transition:.5s;transition:.5s;position:absolute;left:0;z-index:999;height:50px;width:100%}
+#swipebox-bottom-bar{bottom:-50px}
+#swipebox-bottom-bar.visible-bars{-webkit-transform:translate3d(0,-50px,0);transform:translate3d(0,-50px,0)}
+#swipebox-top-bar{top:-50px}
+#swipebox-top-bar.visible-bars{-webkit-transform:translate3d(0,50px,0);transform:translate3d(0,50px,0)}
+#swipebox-title{display:block;width:100%;text-align:center}
+#swipebox-prev,#swipebox-next,#swipebox-close{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/2002/icons.png);background-repeat:no-repeat;border:none!important;text-decoration:none!important;cursor:pointer;width:50px;height:50px;top:0}
+#swipebox-arrows{display:block;margin:0 auto;width:100%;height:50px}
+#swipebox-prev{background-position:-32px 13px;float:left}
+#swipebox-next{background-position:-78px 13px;float:right}
+#swipebox-close{top:0;right:0;position:absolute;z-index:9999;background-position:15px 12px}
+.swipebox-no-close-button #swipebox-close{display:none}
+#swipebox-prev.disabled,#swipebox-next.disabled{opacity:.3}
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider{-webkit-animation:rightSpring .3s;animation:rightSpring .3s}
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider{-webkit-animation:leftSpring .3s;animation:leftSpring .3s}
+.swipebox-touch #swipebox-container:before,.swipebox-touch #swipebox-container:after{-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:all .3s ease;transition:all .3s ease;content:' ';position:absolute;z-index:999;top:0;height:100%;width:20px;opacity:0}
+.swipebox-touch #swipebox-container:before{left:0;-webkit-box-shadow:inset 10px 0 10px -8px #656565;box-shadow:inset 10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-container:after{right:0;-webkit-box-shadow:inset -10px 0 10px -8px #656565;box-shadow:inset -10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before{opacity:1}
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after{opacity:1}
+@-webkit-keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@-webkit-keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@media screen and (min-width:800px){#swipebox-close{right:10px}
+#swipebox-arrows{width:92%;max-width:800px}
+}
+#swipebox-overlay{background:#0d0d0d}
+#swipebox-bottom-bar,#swipebox-top-bar{text-shadow:1px 1px 1px black;background:#000;opacity:.95}
+#swipebox-top-bar{color:white!important;font-size:15px;line-height:43px;font-family:Helvetica,Arial,sans-serif}
+.flex-container a:active,.flexslider a:active,.flex-container a:focus,.flexslider a:focus{outline:0}
+.slides,.flex-control-nav,.flex-direction-nav{margin:0;padding:0;list-style:none}
+.flexslider{margin:0;padding:0}
+.flexslider .slides>li{display:none;position:relative;-webkit-backface-visibility:hidden}
+.flexslider .slides img{width:100%;display:block}
+.flex-pauseplay span{text-transform:capitalize}
+.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+html[xmlns] .slides{display:block}
+* html .slides{height:1%}
+.no-js .slides>li:first-child{display:block}
+.flexslider{margin:0 0 60px;position:relative;zoom:1;color:#FFF}
+.flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;transition:all 1s ease}
+.loading .flex-viewport{max-height:300px}
+.flexslider .slides{zoom:1}
+.carousel li{margin-right:5px}
+.flex-direction-nav{*height:0}
+.flex-direction-nav a{width:30px;height:30px;margin:-20px 0 0;display:block;background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/3639/bg_direction_nav.png) no-repeat 0 0;position:absolute;top:50%;z-index:10;cursor:pointer;text-indent:-9999px;opacity:0;-webkit-transition:all .3s ease}
+.flex-direction-nav a:active{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/3639/bg_direction_nav.png) no-repeat}
+.flex-direction-nav .flex-next{background-position:100% 0;right:-36px}
+.flex-direction-nav .flex-prev{left:-36px}
+.flexslider:hover .flex-next{opacity:.7;right:5px}
+.flexslider:hover .flex-prev{opacity:.7;left:5px}
+.flexslider:active .flex-next{background-position:100% 0}
+.flexslider:hover .flex-next:hover,.flexslider:hover .flex-prev:hover{opacity:1}
+.flex-direction-nav .flex-disabled{opacity:.3!important;filter:alpha(opacity=30);cursor:default}
+.flex-control-nav{width:100%;position:absolute;bottom:-40px;text-align:center}
+.flex-control-nav li{margin:0 5px;display:inline-block;zoom:1;*display:inline}
+.flex-control-paging li a{width:11px;height:11px;display:block;background:#666;background:rgba(0,0,0,0.15);cursor:pointer;text-indent:-9999px;-webkit-border-radius:20px;-moz-border-radius:20px;-o-border-radius:20px;border-radius:20px;box-shadow:inset 0 0 3px rgba(0,0,0,0.3)}
+.flex-control-paging li a:hover{background:#333;background:rgba(0,0,0,0.7)}
+.flex-control-paging li a.flex-active{background:#000;background:rgba(0,0,0,0.9);cursor:default}
+.flex-control-thumbs{margin:5px 0 0;position:static;overflow:hidden}
+.flex-control-thumbs li{width:25%;float:left;margin:0}
+.flex-control-thumbs img{width:100%;display:block;opacity:.7;cursor:pointer}
+.flex-control-thumbs img:hover{opacity:1}
+.flex-control-thumbs .flex-active{opacity:1;cursor:default}
+.flex-caption{background:rgba(0,0,0,0.85);bottom:30px;left:30px;padding:10px 20px;position:absolute;z-index:1}
+.flex-heading,.flex-subheading{font-size:25px}
+@media screen and (max-width:860px){.flex-direction-nav .flex-prev{opacity:1;left:0}
+.flex-direction-nav .flex-next{opacity:1;right:0}
+}
+.flex-direction-nav a{background:none repeat scroll 0 0 rgba(0,0,0,0);color:#FFF;cursor:pointer;display:block;font-size:60px;height:100%;margin:0;opacity:.75;position:absolute;text-align:center;text-indent:0;top:0;width:50px;z-index:10}
+.flex-direction-nav a:hover,.flex-direction-nav a:focus{color:#FFF;text-decoration:none}
+.flex-direction-nav .flex-next{background-position:100% 0;right:0}
+.flex-direction-nav .flex-prev{left:0}
+.flexslider:hover .flex-next{right:0}
+.flexslider:hover .flex-prev{left:0}
+.flex-direction-nav i{display:block}
+/*! Swipebox v1.3.0 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */html.swipebox-html.swipebox-touch{overflow:hidden!important}
+#swipebox-overlay img{border:none!important}
+#swipebox-overlay{width:100%;height:100%;position:fixed;top:0;left:0;z-index:99999!important;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+#swipebox-container{position:relative;width:100%;height:100%}
+#swipebox-slider{-webkit-transition:-webkit-transform .4s ease;transition:transform .4s ease;height:100%;left:0;top:0;width:100%;white-space:nowrap;position:absolute;display:none;cursor:pointer}
+#swipebox-slider .slide{height:100%;width:100%;line-height:1px;text-align:center;display:inline-block}
+#swipebox-slider .slide:before{content:"";display:inline-block;height:50%;width:1px;margin-right:-1px}
+#swipebox-slider .slide img,#swipebox-slider .slide .swipebox-video-container{display:inline-block;max-height:100%;max-width:100%;margin:0;padding:0;width:auto;height:auto;vertical-align:middle}
+#swipebox-slider .slide .swipebox-video-container{background:0;max-width:1140px;max-height:100%;width:100%;padding:5%;-webkit-box-sizing:border-box;box-sizing:border-box}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video{width:100%;height:0;padding-bottom:56.25%;overflow:hidden;position:relative}
+#swipebox-slider .slide .swipebox-video-container .swipebox-video iframe{width:100%!important;height:100%!important;position:absolute;top:0;left:0}
+#swipebox-slider .slide-loading{background:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/3639/loader.gif) no-repeat center center}
+#swipebox-bottom-bar,#swipebox-top-bar{-webkit-transition:.5s;transition:.5s;position:absolute;left:0;z-index:999;height:50px;width:100%}
+#swipebox-bottom-bar{bottom:-50px}
+#swipebox-bottom-bar.visible-bars{-webkit-transform:translate3d(0,-50px,0);transform:translate3d(0,-50px,0)}
+#swipebox-top-bar{top:-50px}
+#swipebox-top-bar.visible-bars{-webkit-transform:translate3d(0,50px,0);transform:translate3d(0,50px,0)}
+#swipebox-title{display:block;width:100%;text-align:center}
+#swipebox-prev,#swipebox-next,#swipebox-close{background-image:url(https://www.hardrock.com/live/locations/lasvegas/files/widgets/3639/icons.png);background-repeat:no-repeat;border:none!important;text-decoration:none!important;cursor:pointer;width:50px;height:50px;top:0}
+#swipebox-arrows{display:block;margin:0 auto;width:100%;height:50px}
+#swipebox-prev{background-position:-32px 13px;float:left}
+#swipebox-next{background-position:-78px 13px;float:right}
+#swipebox-close{top:0;right:0;position:absolute;z-index:9999;background-position:15px 12px}
+.swipebox-no-close-button #swipebox-close{display:none}
+#swipebox-prev.disabled,#swipebox-next.disabled{opacity:.3}
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider{-webkit-animation:rightSpring .3s;animation:rightSpring .3s}
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider{-webkit-animation:leftSpring .3s;animation:leftSpring .3s}
+.swipebox-touch #swipebox-container:before,.swipebox-touch #swipebox-container:after{-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:all .3s ease;transition:all .3s ease;content:' ';position:absolute;z-index:999;top:0;height:100%;width:20px;opacity:0}
+.swipebox-touch #swipebox-container:before{left:0;-webkit-box-shadow:inset 10px 0 10px -8px #656565;box-shadow:inset 10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-container:after{right:0;-webkit-box-shadow:inset -10px 0 10px -8px #656565;box-shadow:inset -10px 0 10px -8px #656565}
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before{opacity:1}
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after{opacity:1}
+@-webkit-keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@keyframes rightSpring{0%{left:0}
+50%{left:-30px}
+100%{left:0}
+}
+@-webkit-keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@keyframes leftSpring{0%{left:0}
+50%{left:30px}
+100%{left:0}
+}
+@media screen and (min-width:800px){#swipebox-close{right:10px}
+#swipebox-arrows{width:92%;max-width:800px}
+}
+#swipebox-overlay{background:#0d0d0d}
+#swipebox-bottom-bar,#swipebox-top-bar{text-shadow:1px 1px 1px black;background:#000;opacity:.95}
+#swipebox-top-bar{color:white!important;font-size:15px;line-height:43px;font-family:Helvetica,Arial,sans-serif}/* Combined CSS End */

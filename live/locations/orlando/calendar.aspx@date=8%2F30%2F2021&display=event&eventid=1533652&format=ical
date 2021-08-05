@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\nPrimus \nHard Rock Live and 101.1 WJRR Present PRIMUS: A
+  TRIBUTE TO KINGS with special guest THE SWORD\n\nCLICK HERE FOR TICKETS \
+ nhttps://www.ticketmaster.com/primus-a-tribute-to-kings-show-postponed/eve
+ nt/2200584CF5FFC8BB
+DTEND:20210830T234500
+DTSTAMP:20210804T145102
+DTSTART:20210830T190000
+LOCATION:Hard Rock Live Orlando - 6050 Universal Boulevard\, Orlando\, Flor
+ ida\, 32819\, United States
+SEQUENCE:0
+SUMMARY:Primus: A Tribute To Kings with special guests The Sword *SOLD OUT*
+UID:3b9c5729-7717-482d-924f-5b1bf94659c9
+URL:https://www.hardrock.com/live/locations/orlando/calendar.aspx?date=8/30
+ /2021&display=event&eventid=1533652
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Comedy\nNikki Glaser\nHard Rock Live Presents Nikki Glaser: One
+  Night with Nikki Glaser\n\nCLICK HERE FOR TICKETS \nhttps://www.ticketmas
+ ter.com/event/2200573AE5E7BD88
+DTEND:20210910T203000
+DTSTAMP:20210804T144826
+DTSTART:20210910T190000
+LOCATION:Hard Rock Live Orlando - 6050 Universal Boulevard\, Orlando\, Flor
+ ida\, 32819\, United States
+SEQUENCE:0
+SUMMARY:One Night with Nikki Glaser
+UID:e3564e07-b61e-46fc-9170-c21cb0d75473
+URL:https://www.hardrock.com/live/locations/orlando/calendar.aspx?date=9/10
+ /2021&display=event&eventid=1304254
+END:VEVENT
+END:VCALENDAR

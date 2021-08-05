@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210916T210000
+DTSTAMP:20210804T144936
+DTSTART:20210916T180000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with Luvalure
+UID:5a6e9101-dc4e-46c7-b77c-01a196266dd7
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/16/2021&displa
+ y=event&eventid=1750537
+END:VEVENT
+END:VCALENDAR

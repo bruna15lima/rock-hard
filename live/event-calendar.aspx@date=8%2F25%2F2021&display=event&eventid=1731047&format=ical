@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live Presents Kesha with specia
+ l guest Betty Who\n\nCLICK HERE FOR TICKETS\nhttps://www.ticketmaster.com/
+ event/22005ABBC6B1A8A2
+DTEND:20210825T223000
+DTSTAMP:20210804T144751
+DTSTART:20210825T200000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Kesha with Betty Who
+UID:a78820dc-cf32-49e4-8dac-d64635e03d73
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/25/2021&displa
+ y=event&eventid=1731047
+END:VEVENT
+END:VCALENDAR

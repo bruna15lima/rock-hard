@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210805T210000
+DTSTAMP:20210804T145020
+DTSTART:20210805T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with The 442's
+UID:8abe5640-59b6-4107-b9ac-a615387a2948
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/5
+ /2021&display=event&eventid=1747349
+END:VEVENT
+END:VCALENDAR

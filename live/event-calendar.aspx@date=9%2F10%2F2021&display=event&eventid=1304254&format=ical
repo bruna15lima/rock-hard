@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Comedy\nNikki Glaser\nHard Rock Live Presents Ni
+ kki Glaser: One Night with Nikki Glaser\n\nCLICK HERE FOR TICKETS \nhttps:
+ //www.ticketmaster.com/event/2200573AE5E7BD88
+DTEND:20210910T203000
+DTSTAMP:20210804T144935
+DTSTART:20210910T190000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:One Night with Nikki Glaser
+UID:43fbc90b-9d6d-4965-b5d8-fb9c6c0d78bd
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/10/2021&displa
+ y=event&eventid=1304254
+END:VEVENT
+END:VCALENDAR

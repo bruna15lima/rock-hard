@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Music\n18+ with Valid I.D. to Enter\n\nPurchas
+ e Tickets Here\nhttps://www.seetickets.us/event/LOST-Tour-w-Mitis-more/426
+ 197
+DTEND:20210829T030000
+DTSTAMP:20210804T144751
+DTSTART:20210828T200000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: LOST TOUR WITH MITIS
+UID:337856ce-498a-45d5-8cd1-e47aea4d9fd4
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/28/2021&displa
+ y=event&eventid=1747355
+END:VEVENT
+END:VCALENDAR

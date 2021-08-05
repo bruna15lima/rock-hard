@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nPrimus \nHard Rock Live and 101.1 WJRR Pr
+ esent PRIMUS: A TRIBUTE TO KINGS with special guest THE SWORD\n\nCLICK HER
+ E FOR TICKETS \nhttps://www.ticketmaster.com/primus-a-tribute-to-kings-sho
+ w-postponed/event/2200584CF5FFC8BB
+DTEND:20210830T234500
+DTSTAMP:20210804T144753
+DTSTART:20210830T190000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Primus: A Tribute To Kings with special guests The Sword *SOLD OUT*
+UID:1bf97e03-579e-4333-be55-91b33086700a
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/30/2021&displa
+ y=event&eventid=1533652
+END:VEVENT
+END:VCALENDAR

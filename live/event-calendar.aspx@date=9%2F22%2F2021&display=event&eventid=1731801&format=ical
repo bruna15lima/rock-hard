@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live & Foundation Present The F
+ ront Bottoms with special guests Oso Oso & Sydney Sprague\n\nCLICK HERE FO
+ R TICKETS\nhttps://www.ticketmaster.com/event/22005AC30910B847
+DTEND:20210922T220000
+DTSTAMP:20210804T144954
+DTSTART:20210922T193000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Hard Rock Live & Foundation Present The Front Bottoms
+UID:ed791acb-6155-46c7-ae16-c9a657ac59b7
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/22/2021&displa
+ y=event&eventid=1731801
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Sports\nUFC 265 Watch Party\n\nPurchase tickets here\nhttps://w
+ ww.ticketweb.com/event/ufc-265-hard-rock-live-las-vegas-tickets/11143375
+DTEND:20210807T220000
+DTSTAMP:20210804T145020
+DTSTART:20210807T170000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:UFC 265 Watch Party
+UID:2345ff2f-7190-4f3c-94bf-7fc1d511c5f2
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/7
+ /2021&display=event&eventid=1747365
+END:VEVENT
+END:VCALENDAR

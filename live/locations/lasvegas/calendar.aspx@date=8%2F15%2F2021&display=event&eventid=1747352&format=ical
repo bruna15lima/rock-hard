@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.eventbrite.com/e/tk-kirkland-live-stand-up-tickets-163708407253
+ ?aff=ebdssbdestsearch
+DTEND:20210815T210000
+DTSTAMP:20210804T145021
+DTSTART:20210815T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:TK Kirkland LIVE Stand-up Comedy Show
+UID:06d340e6-2b83-4d16-a2ee-9ef42db1061f
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 5/2021&display=event&eventid=1747352
+END:VEVENT
+END:VCALENDAR

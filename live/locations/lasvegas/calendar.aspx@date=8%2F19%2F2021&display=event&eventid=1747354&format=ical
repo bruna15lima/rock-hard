@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.tickeri.com/events/60c7b085a716c6000444b1cb/to-o-rosario-en-con
+ cierto
+DTEND:20210820T033000
+DTSTAMP:20210804T145022
+DTSTART:20210819T210000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Tono Rosario
+UID:1b799d78-a9f1-4df2-9142-c5b69f93ea22
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 9/2021&display=event&eventid=1747354
+END:VEVENT
+END:VCALENDAR

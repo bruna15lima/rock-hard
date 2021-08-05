@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live Presents The Brian McKnigh
+ t 4\n\nCLICK HERE FOR TICKETS\nhttps://www.ticketmaster.com/event/22005AC7
+ 04A0AC8B
+DTEND:20210822T230000
+DTSTAMP:20210804T144750
+DTSTART:20210822T210000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:The Brian McKnight 4
+UID:9f4b782b-623f-4378-bc82-f3bfbe218c88
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/22/2021&displa
+ y=event&eventid=1732785
+END:VEVENT
+END:VCALENDAR

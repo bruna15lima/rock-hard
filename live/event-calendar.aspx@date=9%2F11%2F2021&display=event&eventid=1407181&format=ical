@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nMaze Featuring Frankie Beverly \nHard Roc
+ k Live Presents Maze Featuring Frankie Beverly \n\nCLICK HERE FOR TICKETS 
+ \nhttps://www.ticketmaster.com/event/22005879C8A39912
+DTEND:20210911T223000
+DTSTAMP:20210804T144935
+DTSTART:20210911T210000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Maze featuring Frankie Beverly *CANCELLED*
+UID:86570b78-4340-4c7b-8df5-2b7381df84e1
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/11/2021&displa
+ y=event&eventid=1407181
+END:VEVENT
+END:VCALENDAR

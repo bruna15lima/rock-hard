@@ -1,0 +1,3 @@
+sitemap: https://www.hardrock.com/sitemap.xml
+Disallow: /files/5880/contest-rules.pdf
+Noindex: /files/5880/contest-rules.pdf

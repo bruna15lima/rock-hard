@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live & 101.1 WJRR Present Theor
+ y of a Deadman featuring Cory Marks\n\nCLICK HERE FOR TICKETS\nhttps://www
+ .ticketmaster.com/event/22005A9DDB98AE20 
+DTEND:20210917T230000
+DTSTAMP:20210804T144953
+DTSTART:20210917T200000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Theory Of A Deadman with special guest Cory Marks
+UID:40270132-b45a-46c3-81e8-1bce51d9251d
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/17/2021&displa
+ y=event&eventid=1711867
+END:VEVENT
+END:VCALENDAR

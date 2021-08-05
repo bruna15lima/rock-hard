@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nAEG Presents Compadres Tour: Fonseca and 
+ Cepeda \n\nCLICK HERE FOR TICKETS \nhttps://www1.ticketmaster.com/fonseca-
+ cepeda-compadres-tour/event/22005830E190AEA0
+DTEND:20210819T210000
+DTSTAMP:20210804T144749
+DTSTART:20210819T193000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:AEG Presents Compadres Tour: Fonseca and Cepeda
+UID:0d251da4-8bc7-407d-9f5e-4cd349e05ef1
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/19/2021&displa
+ y=event&eventid=1381760
+END:VEVENT
+END:VCALENDAR

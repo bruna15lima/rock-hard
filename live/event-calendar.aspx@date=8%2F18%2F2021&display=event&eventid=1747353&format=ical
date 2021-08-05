@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Music\n21+ with Valid I.D. to Enter\n\nPurchas
+ e Tickets Here\nhttps://www3.ticketon.com/event/EL-TAIGER-LIVE-CONCERT/434
+ 258
+DTEND:20210819T040000
+DTSTAMP:20210804T144749
+DTSTART:20210818T220000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:El Taiger
+UID:065219d9-ba19-405a-9253-ee4c37e72fe8
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/18/2021&displa
+ y=event&eventid=1747353
+END:VEVENT
+END:VCALENDAR

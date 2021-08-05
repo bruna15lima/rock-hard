@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Sports\nUFC 266 Watch Party\n\n\nPurchase tick
+ ets here\nhttps://www.ticketweb.com/event/ufc-266-hard-rock-live-las-vegas
+ -tickets/11143385
+DTEND:20210925T220000
+DTSTAMP:20210804T144956
+DTSTART:20210925T170000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:UFC 266 Watch Party 
+UID:c5b603c0-d1ec-4aff-a349-dcce091ee0f1
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/25/2021&displa
+ y=event&eventid=1750536
+END:VEVENT
+END:VCALENDAR

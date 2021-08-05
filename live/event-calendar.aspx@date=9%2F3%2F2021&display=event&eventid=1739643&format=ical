@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live Presents Classic Albums Li
+ ve: Queen "A Night At The Opera"\n\nCLICK HERE FOR TICKETS\nhttps://www.ti
+ cketmaster.com/event/22005AE18371A580
+DTEND:20210903T220000
+DTSTAMP:20210804T144919
+DTSTART:20210903T200000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Classic Albums Live: Queen "A Night At The Opera"
+UID:23254195-eb64-454f-b5fb-db0e67677a8b
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/3/2021&display
+ =event&eventid=1739643
+END:VEVENT
+END:VCALENDAR

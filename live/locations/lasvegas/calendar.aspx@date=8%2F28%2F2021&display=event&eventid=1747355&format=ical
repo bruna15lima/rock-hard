@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/LOST-Tour-w-Mitis-more/426197
+DTEND:20210829T030000
+DTSTAMP:20210804T145023
+DTSTART:20210828T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: LOST TOUR WITH MITIS
+UID:cb74f36a-27f6-4c31-bfb1-4b0d1496f2bd
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/2
+ 8/2021&display=event&eventid=1747355
+END:VEVENT
+END:VCALENDAR

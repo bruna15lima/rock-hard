@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www3.ticketon.com/event/EL-TAIGER-LIVE-CONCERT/434258
+DTEND:20210819T040000
+DTSTAMP:20210804T145022
+DTSTART:20210818T220000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:El Taiger
+UID:c642523f-45da-474f-bc7b-f296c20e7f70
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 8/2021&display=event&eventid=1747353
+END:VEVENT
+END:VCALENDAR

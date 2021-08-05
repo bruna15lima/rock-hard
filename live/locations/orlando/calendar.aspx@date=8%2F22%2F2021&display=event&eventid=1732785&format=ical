@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\nHard Rock Live Presents The Brian McKnight 4\n\nCLICK HE
+ RE FOR TICKETS\nhttps://www.ticketmaster.com/event/22005AC704A0AC8B
+DTEND:20210822T230000
+DTSTAMP:20210804T145101
+DTSTART:20210822T210000
+LOCATION:Hard Rock Live Orlando - 6050 Universal Boulevard\, Orlando\, Flor
+ ida\, 32819\, United States
+SEQUENCE:0
+SUMMARY:The Brian McKnight 4
+UID:0b2a1170-df70-49e9-ba49-ee1644170f91
+URL:https://www.hardrock.com/live/locations/orlando/calendar.aspx?date=8/22
+ /2021&display=event&eventid=1732785
+END:VEVENT
+END:VCALENDAR

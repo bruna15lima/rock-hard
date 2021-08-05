@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Sports\nUFC 265 Watch Party\n\nPurchase ticket
+ s here\nhttps://www.ticketweb.com/event/ufc-265-hard-rock-live-las-vegas-t
+ ickets/11143375
+DTEND:20210807T220000
+DTSTAMP:20210804T144746
+DTSTART:20210807T170000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:UFC 265 Watch Party
+UID:e1bbb84b-1bd9-4d93-9b48-031a54855f7f
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/7/2021&display
+ =event&eventid=1747365
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Las Vegas Live - Music\n21+ with Valid I.D. to Enter\n\nPurchas
+ e Tickets Here\nhttps://www.eventbrite.com/e/tk-kirkland-live-stand-up-tic
+ kets-163708407253?aff=ebdssbdestsearch
+DTEND:20210815T210000
+DTSTAMP:20210804T144748
+DTSTART:20210815T180000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:TK Kirkland LIVE Stand-up Comedy Show
+UID:deb3e788-a3f8-45f3-8712-3638f0e0f902
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=8/15/2021&displa
+ y=event&eventid=1747352
+END:VEVENT
+END:VCALENDAR

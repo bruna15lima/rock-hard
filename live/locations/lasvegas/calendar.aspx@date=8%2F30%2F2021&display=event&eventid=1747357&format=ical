@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+/Free Live Music
+DTEND:20210830T220000
+DTSTAMP:20210804T145024
+DTSTART:20210830T190000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:LUCKY DEVILS BAND SHOWCASE
+UID:bd087530-9bce-410b-b7f5-a8e66202566a
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/3
+ 0/2021&display=event&eventid=1747357
+END:VEVENT
+END:VCALENDAR

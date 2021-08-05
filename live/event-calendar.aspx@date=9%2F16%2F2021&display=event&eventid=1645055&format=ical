@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Music\nHard Rock Live Presents Kenny Wayne Sheph
+ erd\n\nCLICK HERE FOR TICKETS\nhttps://www.ticketmaster.com/the-kenny-wayn
+ e-shepherd-band-orlando-florida-02-14-2021/event/2200597CA1DD7A73
+DTEND:20210916T223000
+DTSTAMP:20210804T144939
+DTSTART:20210916T200000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Kenny Wayne Shepherd
+UID:9ef664ab-62af-4eb6-9120-227e069b702a
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/16/2021&displa
+ y=event&eventid=1645055
+END:VEVENT
+END:VCALENDAR

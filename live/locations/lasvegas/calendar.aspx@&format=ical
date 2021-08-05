@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210805T210000
+DTSTAMP:20210804T144759
+DTSTART:20210805T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with The 442's
+UID:94595acf-80f4-4b54-81c6-8bdcfafe52cc
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/5
+ /2021&display=event&eventid=1747349
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sports\nUFC 265 Watch Party\n\nPurchase tickets here\nhttps://w
+ ww.ticketweb.com/event/ufc-265-hard-rock-live-las-vegas-tickets/11143375
+DTEND:20210807T220000
+DTSTAMP:20210804T144759
+DTSTART:20210807T170000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:UFC 265 Watch Party
+UID:3e92f461-5995-4f0d-b1b7-80fc86d35c0f
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/7
+ /2021&display=event&eventid=1747365
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210812T210000
+DTSTAMP:20210804T144759
+DTSTART:20210812T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with The 442's
+UID:c1844ab9-8629-4a0a-9641-569326fe8f78
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 2/2021&display=event&eventid=1747350
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.eventbrite.com/e/tk-kirkland-live-stand-up-tickets-163708407253
+ ?aff=ebdssbdestsearch
+DTEND:20210815T210000
+DTSTAMP:20210804T144759
+DTSTART:20210815T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:TK Kirkland LIVE Stand-up Comedy Show
+UID:c7acc161-1c6d-4106-af99-f803a352a06c
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 5/2021&display=event&eventid=1747352
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www3.ticketon.com/event/EL-TAIGER-LIVE-CONCERT/434258
+DTEND:20210819T040000
+DTSTAMP:20210804T144759
+DTSTART:20210818T220000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:El Taiger
+UID:332d1df3-cf4e-4699-9e1a-f022c8e3aa6a
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 8/2021&display=event&eventid=1747353
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.tickeri.com/events/60c7b085a716c6000444b1cb/to-o-rosario-en-con
+ cierto
+DTEND:20210820T033000
+DTSTAMP:20210804T144759
+DTSTART:20210819T210000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Tono Rosario
+UID:12a1b093-a593-478c-8006-3566fc257913
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/1
+ 9/2021&display=event&eventid=1747354
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210826T210000
+DTSTAMP:20210804T144759
+DTSTART:20210826T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with The 442's
+UID:9ea5d984-1c78-407a-8d5f-89741471d2ae
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/2
+ 6/2021&display=event&eventid=1747351
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/LOST-Tour-w-Mitis-more/426197
+DTEND:20210829T030000
+DTSTAMP:20210804T144759
+DTSTART:20210828T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: LOST TOUR WITH MITIS
+UID:8c1d6960-0d41-403f-8a79-eadd39da5591
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/2
+ 8/2021&display=event&eventid=1747355
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+/Free Live Music
+DTEND:20210830T220000
+DTSTAMP:20210804T144759
+DTSTART:20210830T190000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:LUCKY DEVILS BAND SHOWCASE
+UID:b411b2c2-bc49-44c3-b2d0-38be5d3a51e7
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=8/3
+ 0/2021&display=event&eventid=1747357
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20210916T210000
+DTSTAMP:20210804T144759
+DTSTART:20210916T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with Luvalure
+UID:0481a1db-cff3-4877-8944-f935f16b88e4
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=9/1
+ 6/2021&display=event&eventid=1750537
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/RVLTN-Presents-Black-Hole-Tour-w-PEEKABOO-m
+ ore-18/432565
+DTEND:20210925T030000
+DTSTAMP:20210804T144759
+DTSTART:20210924T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: PEEKABOO BLACK HOLE TOUR
+UID:8ceec9c4-5c40-4215-a6f1-2dd25dae5347
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=9/2
+ 4/2021&display=event&eventid=1747358
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sports\nUFC 266 Watch Party\n\n\nPurchase tickets here\nhttps:/
+ /www.ticketweb.com/event/ufc-266-hard-rock-live-las-vegas-tickets/11143385
+DTEND:20210925T220000
+DTSTAMP:20210804T144759
+DTSTART:20210925T170000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:UFC 266 Watch Party 
+UID:f8739a4f-8b65-4bee-96e0-cc8d5e1865c8
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=9/2
+ 5/2021&display=event&eventid=1750536
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.ticketon.com/event/HECTOR-ACOSTA-EL-TORITO/436570?sp=NA0DDP
+DTEND:20211008T040000
+DTSTAMP:20210804T144759
+DTSTART:20211007T210000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:HECTOR ACOSTA EL TORITO
+UID:dd763266-173b-4a7f-9da5-f9c1637d0638
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=10/
+ 7/2021&display=event&eventid=1747359
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20211014T210000
+DTSTAMP:20210804T144759
+DTSTART:20211014T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with Luvalure
+UID:ecf084c9-a7d6-4b0e-80e5-5e2c6a13ab96
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=10/
+ 14/2021&display=event&eventid=1750539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/RVLTN-Presents-DEPOLARIZE-Tour-w-Dirt-Monke
+ y-more-18/432363
+DTEND:20211017T030000
+DTSTAMP:20210804T144759
+DTSTART:20211016T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: DEPOLARIZE TOUR W/ DIRT MONKEY + MORE!
+UID:ded8ca42-9758-4439-8e06-0b19405f6a0c
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=10/
+ 16/2021&display=event&eventid=1747360
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n2nd Floor Cafe/Free Live Music
+DTEND:20211028T210000
+DTSTAMP:20210804T144759
+DTSTART:20211028T180000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:Acoustic After Dark with Luvalure
+UID:c9a255f1-18d1-4566-abbd-b7900418ede8
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=10/
+ 28/2021&display=event&eventid=1750538
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/RVLTN-Presents-HYPE-OR-DIE-TOUR-w-RIOT-TEN-
+ 18/432414
+DTEND:20211113T030000
+DTSTAMP:20210804T144759
+DTSTART:20211112T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN PRESENTS: HYPE OR DIE TOUR W/ RIOT TEN
+UID:679e5f05-09ae-406b-8933-3de4c4b1d5b1
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=11/
+ 12/2021&display=event&eventid=1747361
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n21+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.tickeri.com/events/60c7c3e6eb9d2300043a809e/grupo-niche
+DTEND:20211120T033000
+DTSTAMP:20210804T144759
+DTSTART:20211119T210000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:GRUPO NICHE
+UID:628813bb-1e05-4c48-a51c-a14cf044170a
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=11/
+ 19/2021&display=event&eventid=1747362
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/RVLTN-Presents-KOMPANY-more-18/436445
+DTEND:20211204T030000
+DTSTAMP:20210804T144759
+DTSTART:20211203T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:RVLTN Presents: KOMPANY + more! 
+UID:5aea51a4-f7a8-41c5-9ec4-430a3b82b8c6
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=12/
+ 3/2021&display=event&eventid=1747339
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/Pure-Trance-Vegas-Solarstone-Factor-B-Krist
+ ina-Sky/435265
+DTEND:20211205T030000
+DTSTAMP:20210804T144759
+DTSTART:20211204T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:ELATION PRESENTS: PURE TRANCE VEGAS
+UID:fb4d2f03-2d62-40c5-9ba7-4f658b4d900b
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=12/
+ 4/2021&display=event&eventid=1747363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Music\n18+ with Valid I.D. to Enter\n\nPurchase Tickets Here\nh
+ ttps://www.seetickets.us/event/Elation-Presents-Fleming-and-Lawrence-18/42
+ 6355
+DTEND:20211219T030000
+DTSTAMP:20210804T144759
+DTSTART:20211218T200000
+LOCATION:Hard Rock Live Las Vegas - 3771 South Las Vegas Blvd\, Las Vegas\,
+  Nevada\, 89109\, United States
+SEQUENCE:0
+SUMMARY:ELATION PRESENTS: FLEMING & LAWRENCE
+UID:2d25ca28-e09b-42ea-9b46-20a5589ca4a8
+URL:https://www.hardrock.com/live/locations/lasvegas/calendar.aspx?date=12/
+ 18/2021&display=event&eventid=1747364
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Music\nHard Rock Live Presents Kesha with special guest Betty W
+ ho\n\nCLICK HERE FOR TICKETS\nhttps://www.ticketmaster.com/event/22005ABBC
+ 6B1A8A2
+DTEND:20210825T223000
+DTSTAMP:20210804T145102
+DTSTART:20210825T200000
+LOCATION:Hard Rock Live Orlando - 6050 Universal Boulevard\, Orlando\, Flor
+ ida\, 32819\, United States
+SEQUENCE:0
+SUMMARY:Kesha with Betty Who
+UID:bce33602-b9cd-4d87-bb48-8a22bf5113e5
+URL:https://www.hardrock.com/live/locations/orlando/calendar.aspx?date=8/25
+ /2021&display=event&eventid=1731047
+END:VEVENT
+END:VCALENDAR

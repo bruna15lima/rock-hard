@@ -1,0 +1,19 @@
+﻿img,
+.img-responsive,
+.flexslider,
+#contentMenu,
+.owl-buttons,
+.HardRockCafeSpecialsCarouselWidget, 
+.HRCafeSpecialsCarouselWidget
+{ display: none; }
+
+#side2 .viz-accordionWidget 
+{ display: block; }
+
+#side2 .collapse {
+  display: block !important;
+  height: auto !important;
+}
+
+a[href]:after 
+{ content:"" !important; }

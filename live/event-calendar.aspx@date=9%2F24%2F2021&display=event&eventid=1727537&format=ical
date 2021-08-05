@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DESCRIPTION:Orlando Live - Comedy\nOutback Presents Taylor Tomlinson: Deal 
+ With it Tour\n\nCLICK HERE FOR TICKETS\nhttps://www.ticketmaster.com/event
+ /22005AC19348B04C
+DTEND:20210924T203000
+DTSTAMP:20210804T144956
+DTSTART:20210924T190000
+LOCATION:Hard Rock Live - 6100 Old Park Lane\, Orlando\, Florida\, 32835\, 
+ United States
+SEQUENCE:0
+SUMMARY:Outback Presents Taylor Tomlinson: Deal With it Tour
+UID:cba0a790-a597-4787-afbb-497db9b57a21
+URL:https://www.hardrock.com/live/event-calendar.aspx?date=9/24/2021&displa
+ y=event&eventid=1727537
+END:VEVENT
+END:VCALENDAR
